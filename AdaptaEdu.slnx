@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AdaptaEdu.Api/AdaptaEdu.Api.csproj" />
+  <Project Path="AdaptaEdu.Application/AdaptaEdu.Application.csproj" />
+  <Project Path="AdaptaEdu.Domain/AdaptaEdu.Domain.csproj" />
+  <Project Path="AdaptaEdu.Infrastructure/AdaptaEdu.Infrastructure.csproj" />
+</Solution>
