@@ -3,4 +3,5 @@
   <Project Path="AdaptaEdu.Application/AdaptaEdu.Application.csproj" />
   <Project Path="AdaptaEdu.Domain/AdaptaEdu.Domain.csproj" />
   <Project Path="AdaptaEdu.Infrastructure/AdaptaEdu.Infrastructure.csproj" />
+  <Project Path="AdaptaEdu.Tests/AdaptaEdu.Tests.csproj" />
 </Solution>

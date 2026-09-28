@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D792F2D-FE74-F0F1-EF38-9B97DF5E7115}|AdaptaEdu.Tests\\AdaptaEdu.Tests.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.tests\\professor\\professorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D792F2D-FE74-F0F1-EF38-9B97DF5E7115}|AdaptaEdu.Tests\\AdaptaEdu.Tests.csproj|solutionrelative:adaptaedu.tests\\professor\\professorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC6F54-E9BC-46D9-732B-A46BF887F7C0}|AdaptaEdu.Infrastructure\\AdaptaEdu.Infrastructure.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.infrastructure\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC6F54-E9BC-46D9-732B-A46BF887F7C0}|AdaptaEdu.Infrastructure\\AdaptaEdu.Infrastructure.csproj|solutionrelative:adaptaedu.infrastructure\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\common\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\common\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\services\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\services\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\validation\\criarprofessorrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\validation\\criarprofessorrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\dtos\\criarprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\dtos\\criarprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\validation\\criarprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\validation\\criarprofessorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\repositories\\interfaces\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\repositories\\interfaces\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D792F2D-FE74-F0F1-EF38-9B97DF5E7115}|AdaptaEdu.Tests\\AdaptaEdu.Tests.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.tests\\alunos\\alunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D792F2D-FE74-F0F1-EF38-9B97DF5E7115}|AdaptaEdu.Tests\\AdaptaEdu.Tests.csproj|solutionrelative:adaptaedu.tests\\alunos\\alunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\common\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\common\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\services\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\services\\interfaces\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\dtos\\criaralunorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\dtos\\criaralunorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\validation\\criaralunorequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\validation\\criaralunorequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\dtos\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\controller\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\controller\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC6F54-E9BC-46D9-732B-A46BF887F7C0}|AdaptaEdu.Infrastructure\\AdaptaEdu.Infrastructure.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC6F54-E9BC-46D9-732B-A46BF887F7C0}|AdaptaEdu.Infrastructure\\AdaptaEdu.Infrastructure.csproj|solutionrelative:adaptaedu.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\entities\\tarefaadaptada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\entities\\tarefaadaptada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\entities\\tarefaoriginal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\entities\\tarefaoriginal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\entities\\perfiladaptacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\entities\\perfiladaptacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Tests\\Professor\\ProfessorServiceTests.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Tests\\Professor\\ProfessorServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Tests\\Professor\\ProfessorServiceTests.cs",
+              "RelativeToolTip": "AdaptaEdu.Tests\\Professor\\ProfessorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:25:55.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\appsettings.json",
+              "RelativeToolTip": "AdaptaEdu.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T11:25:05.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "AdaptaEdu.Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:21:49.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:20:38.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Common\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Common\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Common\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Common\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:20:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfessorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:18:55.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProfessorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:18:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriarProfessorRequestValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Validation\\CriarProfessorRequestValidator.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Validation\\CriarProfessorRequestValidator.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Validation\\CriarProfessorRequestValidator.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Validation\\CriarProfessorRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:17:41.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\DTOs\\LoginResponse.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:17:14.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\Program.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Program.cs",
+              "RelativeToolTip": "AdaptaEdu.Api\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:55:34.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:16:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CriarProfessorRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\CriarProfessorRequest.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\DTOs\\CriarProfessorRequest.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\CriarProfessorRequest.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\DTOs\\CriarProfessorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:15:49.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CriarProfessorRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Validation\\CriarProfessorRequest.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Validation\\CriarProfessorRequest.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Validation\\CriarProfessorRequest.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Validation\\CriarProfessorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:50:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Controller\\AuthController.cs",
+              "RelativeToolTip": "AdaptaEdu.Api\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:50:02.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:01:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Repositories\\Interfaces\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Repositories\\Interfaces\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Repositories\\Interfaces\\IAlunoRepository.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Repositories\\Interfaces\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:01:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlunoServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Tests\\Alunos\\AlunoServiceTests.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Tests\\Alunos\\AlunoServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Tests\\Alunos\\AlunoServiceTests.cs",
+              "RelativeToolTip": "AdaptaEdu.Tests\\Alunos\\AlunoServiceTests.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:56:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:55:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\AlunoService.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:54:20.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\Interfaces\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Services\\Interfaces\\IAlunoService.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\Interfaces\\IAlunoService.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Services\\Interfaces\\IAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:53:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CriarAlunoRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\CriarAlunoRequest.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\DTOs\\CriarAlunoRequest.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\CriarAlunoRequest.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\DTOs\\CriarAlunoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:52:11.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CriarAlunoRequestValidator.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Validation\\CriarAlunoRequestValidator.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Validation\\CriarAlunoRequestValidator.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Validation\\CriarAlunoRequestValidator.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Validation\\CriarAlunoRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:51:31.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AlunoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\AlunoDTO.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\DTOs\\AlunoDTO.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\DTOs\\AlunoDTO.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\DTOs\\AlunoDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:50:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "RelativeToolTip": "AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:48:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TarefaAdaptada.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\TarefaAdaptada.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Entities\\TarefaAdaptada.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\TarefaAdaptada.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Entities\\TarefaAdaptada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:05:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TarefaOriginal.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\TarefaOriginal.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Entities\\TarefaOriginal.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\TarefaOriginal.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Entities\\TarefaOriginal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:05:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PerfilAdaptacao.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\PerfilAdaptacao.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Entities\\PerfilAdaptacao.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\PerfilAdaptacao.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Entities\\PerfilAdaptacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:04:42.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AdaptaEdu.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:04:04.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Entities\\Aluno.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Entities\\Aluno.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Entities\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:03:25.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
