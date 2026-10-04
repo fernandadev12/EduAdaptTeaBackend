@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\adaptaedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\adaptaedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\services\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\controller\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\controller\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\services\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\services\\interfaces\\iprofessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A927DDF-CA00-B3B9-9600-818FCCFB29A6}|AdaptaEdu.Api\\AdaptaEdu.Api.csproj|solutionrelative:adaptaedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.domain\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201B4F2F-4240-A838-E55C-F6022697BD42}|AdaptaEdu.Domain\\AdaptaEdu.Domain.csproj|solutionrelative:adaptaedu.domain\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|c:\\projetos\\eduadapttea\\eduadaptteabackend\\adaptaedu.application\\common\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0C4F7-3127-CE52-5DF7-79C5359BA88B}|AdaptaEdu.Application\\AdaptaEdu.Application.csproj|solutionrelative:adaptaedu.application\\common\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +38,99 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfessorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Services\\ProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:52:15.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProfessorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Services\\Interfaces\\IProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:51:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdaptaEdu.Api",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\AdaptaEdu.Api.csproj",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\AdaptaEdu.Api.csproj",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\AdaptaEdu.Api.csproj",
+              "RelativeToolTip": "AdaptaEdu.Api\\AdaptaEdu.Api.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T13:12:35.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\Program.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Program.cs",
+              "RelativeToolTip": "AdaptaEdu.Api\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:11:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "RelativeToolTip": "AdaptaEdu.Api\\Controller\\AlunosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:09:37.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "AdaptaEdu.Domain\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:08:14.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "ToolTip": "C:\\Projetos\\EduAdaptTea\\EduAdaptTeaBackend\\AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "RelativeToolTip": "AdaptaEdu.Application\\Common\\MapsterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:59:10.047Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -30,6 +150,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

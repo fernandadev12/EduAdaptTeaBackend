@@ -1,4 +1,5 @@
-﻿using AdaptaEdu.Application.DTOs;
+﻿using System.Security.Claims;
+using AdaptaEdu.Application.DTOs;
 
 namespace AdaptaEdu.Application.Services.Interfaces
 {
@@ -6,5 +7,6 @@ namespace AdaptaEdu.Application.Services.Interfaces
     {
         Task<Guid> CriarAsync(CriarProfessorRequest request);
         Task<LoginResponse?> LoginAsync(LoginRequest request);
+        Task<Guid> ObterProfessorId(ClaimsPrincipal user);
     }
 }

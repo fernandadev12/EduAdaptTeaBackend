@@ -1,7 +1,9 @@
 ﻿using AdaptaEdu.Application.DTOs;
 using AdaptaEdu.Application.Services.Interfaces;
 using AdaptaEdu.Domain.Entities;
+using AdaptaEdu.Domain.Repositories.Interfaces;
 using FluentValidation;
+using Mapster;
 
 namespace AdaptaEdu.Application.Services
 {
@@ -54,7 +56,12 @@ namespace AdaptaEdu.Application.Services
 
         public async Task<List<AlunoDto>> ListarPorProfessorAsync(Guid professorId)
         {
-            var alunos = await _repository.ListarPorProfessorAsync(professorId);
+            List<Aluno> alunos = new List<Aluno>();
+            var result = await _repository.ListarPorProfessorAsync(professorId);
+            if (result is not null)
+            {
+                alunos.AddRange(result);
+            }
             return alunos.Adapt<List<AlunoDto>>();
         }
     }

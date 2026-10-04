@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity.Data;
+﻿using AdaptaEdu.Application.DTOs;
+using AdaptaEdu.Application.Services.Interfaces;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
+using LoginRequest = AdaptaEdu.Application.DTOs.LoginRequest;
 
 namespace AdaptaEdu.Api.Controller
 {

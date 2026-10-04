@@ -13,6 +13,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="10.0.12" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
     <PackageReference Include="Moq" Version="4.21.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
     <PackageReference Include="xunit" Version="2.9.3" />
     <PackageReference Include="xunit.runner.visualstudio" Version="3.1.4" />
   </ItemGroup>
@@ -22,7 +23,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AdaptaEdu.Api\AdaptaEdu.Api.csproj" />
     <ProjectReference Include="..\AdaptaEdu.Application\AdaptaEdu.Application.csproj" />
+    <ProjectReference Include="..\AdaptaEdu.Domain\AdaptaEdu.Domain.csproj" />
   </ItemGroup>
 
 </Project>

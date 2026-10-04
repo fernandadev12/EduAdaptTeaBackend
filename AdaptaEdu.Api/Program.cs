@@ -4,6 +4,8 @@ using AdaptaEdu.Application.Services;
 using AdaptaEdu.Application.Services.Interfaces;
 using AdaptaEdu.Application.Validation;
 using AdaptaEdu.Domain.Entities;
+using AdaptaEdu.Domain.Repositories;
+using AdaptaEdu.Domain.Repositories.Interfaces;
 using AdaptaEdu.Infrastructure.Auth;
 using AdaptaEdu.Infrastructure.Data;
 using FluentValidation;
@@ -64,29 +66,10 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!))
         };
     });
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
-using (var scope = app.Services.CreateScope())
-{
-    await RoleSeeder.SeedAsync(scope.ServiceProvider);
-}
+
+
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
 
 public static class RoleSeeder
 {

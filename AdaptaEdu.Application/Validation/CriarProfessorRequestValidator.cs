@@ -13,6 +13,6 @@ namespace AdaptaEdu.Application.Validation
             RuleFor(x => x.Email).NotEmpty().EmailAddress();
             RuleFor(x => x.Senha).NotEmpty().MinimumLength(6)
                 .WithMessage("A senha deve ter no mínimo 6 caracteres.");
-        }
+        }       
     }
 }

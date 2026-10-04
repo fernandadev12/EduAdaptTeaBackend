@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using AdaptaEdu.Application.Alunos;
-using AdaptaEdu.Application.DTOs;
+﻿using AdaptaEdu.Application.DTOs;
+using AdaptaEdu.Application.Services;
+using AdaptaEdu.Application.Validation;
+using AdaptaEdu.Domain.Entities;
+using AdaptaEdu.Domain.Repositories.Interfaces;
 using FluentAssertions;
+using FluentValidation;
 using Moq;
 
 namespace AdaptaEdu.Tests.Alunos
@@ -30,11 +31,11 @@ namespace AdaptaEdu.Tests.Alunos
 
             // Act
             var alunoId = await service.CriarAsync(request, Guid.NewGuid());
-
+            
             // Assert
             alunoId.Should().NotBeEmpty();
             repositoryMock.Verify(r => r.AdicionarAsync(
-                It.Is<Aluno>(a => a.Nome == "João" && a.Perfis.First().Respostas.Count == 2)),
+                It.Is<Aluno>(a => a.Nome == "João" && a.Perfis.First().Respostas.Count() == 2)),
                 Times.Once);
         }
 

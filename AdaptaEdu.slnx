@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Project Path="AdaptaEdu.Api/AdaptaEdu.Api.csproj" />
   <Project Path="AdaptaEdu.Application/AdaptaEdu.Application.csproj" />
   <Project Path="AdaptaEdu.Domain/AdaptaEdu.Domain.csproj" />

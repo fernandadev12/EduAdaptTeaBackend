@@ -1,5 +1,8 @@
-﻿using AdaptaEdu.Application.DTOs;
+﻿using System.Security.Claims;
+using AdaptaEdu.Application.Common;
+using AdaptaEdu.Application.DTOs;
 using AdaptaEdu.Application.Services.Interfaces;
+using AdaptaEdu.Domain.Entities;
 using FluentValidation;
 using Microsoft.AspNetCore.Identity;
 
@@ -60,6 +63,11 @@ namespace AdaptaEdu.Application.Services
             var token = _jwtTokenGenerator.Gerar(usuario, roles);
 
             return new LoginResponse(token, usuario.Id, usuario.Nome);
+        }
+
+        public Task<Guid> ObterProfessorId(ClaimsPrincipal user)
+        {
+            throw new NotImplementedException();
         }
     }
 }
